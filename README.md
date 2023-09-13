@@ -17,7 +17,7 @@ And Second One is Hibernate Core Relocation
 
 1)	In this Phase We Write the Actual Hibernate code in src/main/java file in this file Create a Package com.jsp.employee 
 ## In Package Following Code
-
+### https://github.com/tavanojirutik/hibernate-jpa-api-HQl-AllOperations-/tree/main
 
 
 
